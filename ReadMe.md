@@ -14,7 +14,7 @@
       3. Using Dataloader [==>](3_Trainning_Pipelines/2_Multi_layer_Perceptron/3_Using_Dataload/1_MLP_using_dataloader.ipynb)
 
 4. **ANN**
-   1. ANN Fasion MNIST [==>](4_ANN/1_ANN_Fasion_MNIST/1_ANN_Fasion_MNIST.ipynb)
+   1. ANN Fasion MNIST [==>](4_ANN/2_Classification/2_Multi_Class_Classification/1_ANN_Fasion_MNIST.ipynb)
    
 5. **Computer Vision**
    1. CNN Architecture [==>](5_Computer_Vision/1_CNN_Architecture/1_Fasion_MNIST/1_CNN_Architecture.ipynb)
@@ -62,7 +62,7 @@
          2. Loss Function Generate     [==>](6_Natural_Language_Processing/4_Build_LLM/4_Pretraining_on_unlabeled_data/2_Loss_Function_Generate/1_Loss_Function_Generate.ipynb)
          3. Training LLM     [==>](6_Natural_Language_Processing/4_Build_LLM/4_Pretraining_on_unlabeled_data/3_Training_LLM/1_Training_LLM.ipynb)
          4. Improvement by some randomness     [==>](6_Natural_Language_Processing/4_Build_LLM/4_Pretraining_on_unlabeled_data/4_Improvements/1_Improve_Training.ipynb)
-         5. Load Parameter     [==>](6_Natural_Language_Processing/4_Build_LLM/4_Pretraining_on_unlabeled_data/5_Load_Parameter/1_Load_Trained_Weight.ipynb)
+         5. Load Parameter     [==>](6_Natural_Language_Processing/4_Build_LLM/4_Pretraining_on_unlabeled_data/5_Load_Parameter/1_Parameter_File/1_Load_Trained_Weight.ipynb)
 
 
 # convert jupyter notebook to python
